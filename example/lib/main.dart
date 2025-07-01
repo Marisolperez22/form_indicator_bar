@@ -1,4 +1,3 @@
-import 'package:example/steps/first_step.dart';
 import 'package:example/steps/form_step.dart';
 import 'package:flutter/material.dart';
 
